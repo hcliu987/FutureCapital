@@ -1,3 +1,10 @@
+# ... 现有内容 ...
+
+# 忽略 clean 文件夹
+clean/
+
+# 忽略 .history 文件夹
+.history/
 .DS_Store
 node_modules
 /dist

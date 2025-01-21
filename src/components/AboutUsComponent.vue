@@ -70,8 +70,8 @@
   padding-left: 224px;
 
   &-logo {
-    width: 118.5px;
-    height: 118.5px;
+    width: 180px;
+    height: auto;
     position: relative;
     z-index: 1;
     margin-bottom: 12px;
